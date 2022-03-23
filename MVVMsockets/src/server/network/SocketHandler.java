@@ -1,5 +1,5 @@
 package server.network;
 
-public class trump
+public class SocketHandler
 {
 }

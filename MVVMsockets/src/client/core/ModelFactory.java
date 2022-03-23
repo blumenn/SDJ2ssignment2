@@ -1,5 +1,5 @@
 package client.core;
 
-public class viewHandler
+public class ModelFactory
 {
 }
